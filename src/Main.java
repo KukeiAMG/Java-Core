@@ -15,5 +15,6 @@ public class Main {
         }
 
         System.out.println("\t\t------Arrays------");
+        int number = 10;
     }
 }
