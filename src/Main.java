@@ -15,5 +15,9 @@ public class Main {
         }
 
         System.out.println("\t\t------Arrays------");
+        int number = 10;
+        int[] numbers = new int[5]; //create array
+        int[] Arr = {1,2,3,4,5}; //array create and filling
+        int[][] matrice = {{1,2,3},{4,5,6},{7,8,9}}; //two-dimensional array
     }
 }
