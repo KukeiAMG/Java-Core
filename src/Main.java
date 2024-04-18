@@ -2,6 +2,8 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
+        final int CONSTANT = 0; //создание константы
+
         System.out.println("\t\t------Switch_Case------\n");
 
         Scanner scanner = new Scanner(System.in);
